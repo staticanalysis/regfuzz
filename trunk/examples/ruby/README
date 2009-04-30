@@ -1,0 +1,1 @@
+touch regfuzz_wrap.c before running extconf.rb to make sure it generates a proper Makefile
